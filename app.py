@@ -146,7 +146,7 @@ def landing_page():
         # PowerPoint card - clickable version
         st.markdown(
             """
-            <a href="https://drive.google.com/file/d/1d128RngDdBN8Ue46UhSZkHvYXiTed0By/view?usp=sharing" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://docs.google.com/presentation/d/1ENMwAW0_OoYAPdOfKCUgohdXPamcVAJ_/edit?usp=sharing&ouid=107588517927055292313&rtpof=true&sd=true" target="_blank" style="text-decoration: none; color: inherit;">
                 <div class="card">
                     <div class="card-icon">📑</div>
                     <div class="card-title">PowerPoint Presentation</div>
@@ -173,7 +173,7 @@ def landing_page():
         # Report card - clickable version
         st.markdown(
             """
-            <a href="https://drive.google.com/file/d/1d128RngDdBN8Ue46UhSZkHvYXiTed0By/view?usp=sharing" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://drive.google.com/file/d/1hCtoBNYJfVvZI20x025V7MxEl3LiSzon/view?usp=sharing" target="_blank" style="text-decoration: none; color: inherit;">
                 <div class="card">
                     <div class="card-icon">📄</div>
                     <div class="card-title">Report</div>
