@@ -146,7 +146,7 @@ def landing_page():
         # PowerPoint card - clickable version
         st.markdown(
             """
-            <a href="https://docs.google.com/presentation/d/1ENMwAW0_OoYAPdOfKCUgohdXPamcVAJ_/edit?usp=sharing&ouid=107588517927055292313&rtpof=true&sd=true" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://docs.google.com/presentation/d/14Gg9LVLnlUgaYAfefF9WECtrDAkfeyXG/edit?usp=sharing&ouid=107588517927055292313&rtpof=true&sd=true" target="_blank" style="text-decoration: none; color: inherit;">
                 <div class="card">
                     <div class="card-icon">📑</div>
                     <div class="card-title">PowerPoint Presentation</div>
